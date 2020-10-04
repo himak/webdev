@@ -56,38 +56,7 @@ Ako sa naučiť programovať v PHP za víkend
   
 - Editor zdrojového kódu (IDE) **Visual Studio Code**
 
-  https://code.visualstudio.com
-
-### Doplňujúce pogramy
-
-- príkazový riadok (terminál)
-
-  Windows / macOS
-  
-  https://hyper.is/#installation
-  
-- **Git** repozitár
-
-  Windows / macOS
-  
-  https://git-scm.com/downloads
-
-- inštalátor ostatných knižníc **Node.js a NPM**
-
-  Windows / macOS
-  
-  https://nodejs.org/en/download/
-  
-- inštalátor PHP knižníc **Composer**
-  
-  Windows
-  
-  https://getcomposer.org/doc/00-intro.md#installation-windows
-  
-  Mac
-  
-  https://getcomposer.org/doc/00-intro.md#installation-linux-unix-macos
-  
+  https://code.visualstudio.com  
   
 # Prvá webová stránka
 
