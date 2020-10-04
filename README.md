@@ -87,3 +87,25 @@ Ako sa naučiť programovať v PHP za víkend
   Mac
   
   https://getcomposer.org/doc/00-intro.md#installation-linux-unix-macos
+  
+  
+# Prvá webová stránka
+
+Po nainštalovaní lokálneho servera MAMP, si vytvorte nový projekt (zložku s názvom **mojweb**) v zložke:
+
+    C:/MAMP/htdocs
+    C:/MAMP/htdocs/mojweb
+
+Zložku si otvorte v programe Visual Studio Code a vytvorte si nový súbor **index.php**. Do tohto súboru si môžete písať PHP kód, napr.
+
+    <?php
+
+          echo 'Moja web stranka';
+
+    ?>
+  
+Ulože obsah súboru index.php s PHP kódom a otvorte si v prehlidači URL adresu:
+
+    http://localhost/mojweb
+  
+  Zobrazí sa stránka s textom **Moja web stranka**
