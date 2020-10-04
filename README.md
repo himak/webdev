@@ -53,6 +53,12 @@ Ako sa naučiť programovať v PHP za víkend
   masOS
   
   https://www.mamp.info/en/mac/
+  
+- Editor zdrojového kódu (IDE) **Visual Studio Code**
+
+  https://code.visualstudio.com
+
+### Doplňujúce pogramy
 
 - príkazový riadok (terminál)
 
@@ -60,7 +66,13 @@ Ako sa naučiť programovať v PHP za víkend
   
   https://hyper.is/#installation
   
-- **Git** repozitár a inštalátor ostatných knižníc **Node.js a NPM**
+- **Git** repozitár
+
+  Windows / macOS
+  
+  https://git-scm.com/downloads
+
+- inštalátor ostatných knižníc **Node.js a NPM**
 
   Windows / macOS
   
